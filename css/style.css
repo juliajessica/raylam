@@ -1,0 +1,23 @@
+.main {
+  float: center;
+}
+
+.tour {
+  float: left;
+  width: 30%;
+  background-color: beige;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+img {
+  display: block;
+  max-width:330px;
+  max-height:350px;
+  width: 500px;
+  height: auto;
+  float: left;
+}
